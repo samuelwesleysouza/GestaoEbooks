@@ -1,0 +1,12 @@
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\bin\Debug\net6.0\GestaoEbooks.Repository.deps.json
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\bin\Debug\net6.0\GestaoEbooks.Repository.dll
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\bin\Debug\net6.0\GestaoEbooks.Repository.pdb
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\obj\Debug\net6.0\GestaoEbooks.Repository.csproj.AssemblyReference.cache
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\obj\Debug\net6.0\GestaoEbooks.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\obj\Debug\net6.0\GestaoEbooks.Repository.AssemblyInfoInputs.cache
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\obj\Debug\net6.0\GestaoEbooks.Repository.AssemblyInfo.cs
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\obj\Debug\net6.0\GestaoEbooks.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\obj\Debug\net6.0\GestaoEbooks.Repository.dll
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\obj\Debug\net6.0\refint\GestaoEbooks.Repository.dll
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\obj\Debug\net6.0\GestaoEbooks.Repository.pdb
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbooks.Repository\obj\Debug\net6.0\ref\GestaoEbooks.Repository.dll

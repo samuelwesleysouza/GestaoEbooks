@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Samuel Souza\\Desktop\\Api_Pessoa_c#\\GestaoEbook.Aplication\\GestaoEbook.Aplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Samuel Souza\\Desktop\\Api_Pessoa_c#\\GestaoEbook.Aplication\\GestaoEbook.Aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samuel Souza\\Desktop\\Api_Pessoa_c#\\GestaoEbook.Aplication\\GestaoEbook.Aplication.csproj",
+        "projectName": "GestaoEbook.Aplication",
+        "projectPath": "C:\\Users\\Samuel Souza\\Desktop\\Api_Pessoa_c#\\GestaoEbook.Aplication\\GestaoEbook.Aplication.csproj",
+        "packagesPath": "C:\\Users\\Samuel Souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samuel Souza\\Desktop\\Api_Pessoa_c#\\GestaoEbook.Aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Samuel Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Samuel Souza\\Desktop\\Api_Pessoa_c#\\GestaoEbooks.Repository\\GestaoEbooks.Repository.csproj": {
+                "projectPath": "C:\\Users\\Samuel Souza\\Desktop\\Api_Pessoa_c#\\GestaoEbooks.Repository\\GestaoEbooks.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Azure.DocumentDB.Core": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.30.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.30.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Samuel Souza\\Desktop\\Api_Pessoa_c#\\GestaoEbooks.Repository\\GestaoEbooks.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samuel Souza\\Desktop\\Api_Pessoa_c#\\GestaoEbooks.Repository\\GestaoEbooks.Repository.csproj",
+        "projectName": "GestaoEbooks.Repository",
+        "projectPath": "C:\\Users\\Samuel Souza\\Desktop\\Api_Pessoa_c#\\GestaoEbooks.Repository\\GestaoEbooks.Repository.csproj",
+        "packagesPath": "C:\\Users\\Samuel Souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samuel Souza\\Desktop\\Api_Pessoa_c#\\GestaoEbooks.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Samuel Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\bin\Debug\net6.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\bin\Debug\net6.0\GestaoEbook.Aplication.deps.json
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\bin\Debug\net6.0\GestaoEbook.Aplication.dll
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\bin\Debug\net6.0\GestaoEbook.Aplication.pdb
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\bin\Debug\net6.0\GestaoEbooks.Repository.dll
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\bin\Debug\net6.0\GestaoEbooks.Repository.pdb
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\obj\Debug\net6.0\GestaoEbook.Aplication.csproj.AssemblyReference.cache
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\obj\Debug\net6.0\GestaoEbook.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\obj\Debug\net6.0\GestaoEbook.Aplication.AssemblyInfoInputs.cache
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\obj\Debug\net6.0\GestaoEbook.Aplication.AssemblyInfo.cs
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\obj\Debug\net6.0\GestaoEbook.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\obj\Debug\net6.0\GestaoEbook.Aplication.csproj.CopyComplete
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\obj\Debug\net6.0\GestaoEbook.Aplication.dll
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\obj\Debug\net6.0\refint\GestaoEbook.Aplication.dll
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\obj\Debug\net6.0\GestaoEbook.Aplication.pdb
+C:\Users\Samuel Souza\Desktop\Api_Pessoa_c#\GestaoEbook.Aplication\obj\Debug\net6.0\ref\GestaoEbook.Aplication.dll
